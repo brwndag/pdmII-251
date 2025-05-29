@@ -1,0 +1,11 @@
+name: project_email
+description: Projeto Dart que serve para enviar e-mail
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  mailer: ^6.0.1
+
+
